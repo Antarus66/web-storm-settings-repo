@@ -1,0 +1,45 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
+      <mapping ext="tpl" type="EJS" />
+      <mapping pattern="comon" type="PLAIN_TEXT" />
+      <mapping pattern="en" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="interceptors" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="application" type="PLAIN_TEXT" />
+      <mapping pattern="content-actions-menu" type="PLAIN_TEXT" />
+      <mapping pattern="events" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc.example" type="PLAIN_TEXT" />
+      <mapping pattern="otherp[" type="PLAIN_TEXT" />
+      <mapping pattern="i18next-initializer.ts" type="PLAIN_TEXT" />
+      <mapping pattern="filter-equipment-by-type" type="PLAIN_TEXT" />
+      <mapping pattern="clickWithMouseMove" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern="initializer" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="contol-header" type="PLAIN_TEXT" />
+      <mapping pattern="models" type="PLAIN_TEXT" />
+      <mapping pattern="service-contract-object" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="enum" type="PLAIN_TEXT" />
+      <mapping ext="repository" type="PLAIN_TEXT" />
+      <mapping ext="ta" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="use-case" type="PLAIN_TEXT" />
+      <mapping ext="const" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="dtos" type="PLAIN_TEXT" />
+      <mapping pattern="*.initial.ts" type="TypeScript" />
+      <mapping pattern="enum-to-object" type="TypeScript" />
+      <mapping pattern="en-password-reset" type="TypeScript" />
+      <mapping ext="component" type="TypeScript" />
+      <mapping ext="builder" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
