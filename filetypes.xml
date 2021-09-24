@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
       <mapping pattern="gatsby-browser.js" type="AUTO_DETECTED" />
+      <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="EJS" />
       <mapping pattern="comon" type="PLAIN_TEXT" />
       <mapping pattern="en" type="PLAIN_TEXT" />
