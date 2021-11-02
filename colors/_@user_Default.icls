@@ -3,7 +3,7 @@
     <property name="created">2018-10-17T21:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2020-04-06T11:17:19</property>
+    <property name="modified">2021-11-02T11:48:37</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -31,4 +31,9 @@
     <option name="FILESTATUS_changelistConflict" value="d73a49" />
     <option name="FILESTATUS_modifiedOutside" value="5cc5" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
