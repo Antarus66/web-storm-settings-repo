@@ -1,4 +1,13 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="200" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="200" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
@@ -13,12 +22,23 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="TypeScript.ts.chain.hints" />
-        <option value="TypeScript.ts.type.hints" />
-      </set>
-    </option>
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
+    <settingsMapElement>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </JavaScript.js.type.hints>
+    </settingsMapElement>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
