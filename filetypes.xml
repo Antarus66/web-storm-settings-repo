@@ -6,6 +6,7 @@
       <mapping pattern="gatsby-browser.js" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="EJS" />
       <mapping pattern="comon" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="content-actions-menu" type="PLAIN_TEXT" />
       <mapping pattern="i18next-initializer.ts" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc.example" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping pattern="en" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="filter-equipment-by-type" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local.example" type="PLAIN_TEXT" />
       <mapping pattern="otherp[" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
