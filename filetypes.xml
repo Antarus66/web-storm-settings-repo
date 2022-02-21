@@ -4,7 +4,6 @@
       <mapping pattern="pro-yearly.json" type="AUTO_DETECTED" />
       <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
       <mapping pattern="gatsby-browser.js" type="AUTO_DETECTED" />
-      <mapping ext="tpl" type="EJS" />
       <mapping pattern="comon" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="content-actions-menu" type="PLAIN_TEXT" />
@@ -45,7 +44,11 @@
       <mapping pattern="en-password-reset" type="TypeScript" />
       <mapping ext="component" type="TypeScript" />
       <mapping ext="builder" type="TypeScript" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <mapping ext="tpl" type="EJS" />
     </extensionMap>
   </component>
 </application>
