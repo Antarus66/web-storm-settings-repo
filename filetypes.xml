@@ -29,6 +29,7 @@
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="application" type="PLAIN_TEXT" />
       <mapping pattern="clickWithMouseMove" type="PLAIN_TEXT" />
+      <mapping ext="wof" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="repository" type="PLAIN_TEXT" />
