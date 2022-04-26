@@ -18,6 +18,11 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
