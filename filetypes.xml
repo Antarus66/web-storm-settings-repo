@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pro-yearly.json" type="AUTO_DETECTED" />
       <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
+      <mapping pattern="catalogSearchButton.tsx" type="AUTO_DETECTED" />
       <mapping pattern="gatsby-browser.js" type="AUTO_DETECTED" />
       <mapping pattern="comon" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
