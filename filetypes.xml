@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="saveDataset" type="AUTO_DETECTED" />
+      <mapping pattern="sendDatasetClient.ts" type="AUTO_DETECTED" />
       <mapping pattern="pro-yearly.json" type="AUTO_DETECTED" />
       <mapping pattern="get-refresh-token" type="AUTO_DETECTED" />
       <mapping pattern="catalogSearchButton.tsx" type="AUTO_DETECTED" />
