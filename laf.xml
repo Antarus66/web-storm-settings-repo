@@ -1,5 +1,7 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Night Owl Contrast" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Monokai Pro Contrast" />
+    <preferred-light-laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="Material Lighter Contrast" />
+    <preferred-dark-laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="CopilotTheme" />
   </component>
 </application>
